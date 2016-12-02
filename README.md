@@ -3,6 +3,6 @@
 
 简单的一个Demo，举例：系统更改为24小时制后，显示为14：05，更改为12小时制后，显示为下午02：05。
 
-https://github.com/Fighter2b/TimeDemo/blob/master/ScreenShots/1.jpg
+![image](https://github.com/Fighter2b/TimeDemo/blob/master/ScreenShots/1.jpg)
 
-https://github.com/Fighter2b/TimeDemo/blob/master/ScreenShots/2.jpg
+![image](https://github.com/Fighter2b/TimeDemo/blob/master/ScreenShots/2.jpg)
